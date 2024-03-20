@@ -4,12 +4,17 @@ While it does not include the data, it is available upon request.
 
 After downloading the data, the 'Source - Clean Data.R' script can clean the data to be used in the following models.
 
-## Enamel Hypoplasia (Individual) Case Study
+
+
+Enamel Hypoplasia (Individual) Case Study
 First, the 'EH - Full Model.R' script can be used to identify biomarkers with a posterior probability of inclusion greater than 0.6 to be selected for the reduced model. 
 
 Then, the reduced model analysis can be reproduced with 'EH - Reduced Model.R'.
 
-## Multivariate Defects Case Study
+
+
+
+Multivariate Defects Case Study
 To start, the 'Incisal - Full Model.R' script can be used to identify biomarkers with a posterior probability of inclusion greater than 0.6 to be selected for the reduced model. 
 
 Then, the reduced model analysis can be reproduced with 'Incisal - Reduced Model.R'.
