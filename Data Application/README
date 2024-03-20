@@ -1,1 +1,11 @@
+This folder contains scripts for reproducing the case studies application example:
 
+While it does not include the data, it is available upon request.
+
+After downloading the data, the 'Source - Clean Data.R' script can clean the data to be used in the following models.
+
+First, the 'EH - Full Model.R' script can be used to identify biomarkers with a posterior probability of inclusion greater than 0.6 to be selected for the reduced model. 
+
+Then, the reduced model analysis can be reproduced with 'EH - Reduced Model.R'.
+
+Please contact kellerev@musc.edu in case of difficulties.
